@@ -13,3 +13,5 @@ Below listed are some of the important objectives/features that were considered 
 4) Customer Segmentation
 
 Refer to the report for details about the analysis
+
+![Screenshot](Screenshot(221).png)
